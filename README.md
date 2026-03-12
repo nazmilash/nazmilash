@@ -1,4 +1,4 @@
-# Hi there, I'm Nazmil Ashraf 👋
+# Hi there, I'm Nazmil 👋
 
 ### M.Sc. Analytics & AI @ ESMT Berlin | Fintech Operations | AI & Process Optimization
 
@@ -54,7 +54,7 @@ Statistical analysis and visualization of urban mobility patterns. Focused on id
 
 <p align="center">
   <i>"Using data and technology to solve problems that matter."</i>
-</p>## Hi there 👋
+
 
 <!--
 **nazmilash/nazmilash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
