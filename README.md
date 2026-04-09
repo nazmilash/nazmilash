@@ -32,13 +32,13 @@ Currently, I am pursuing my **Master’s in Analytics and Artificial Intelligenc
 
 ## 📂 Featured Projects
 
-### 🤖 [Sponsorship Intelligence Web](https://github.com/yourusername/sponsorship-intelligence-web)
+### 🤖 [Sponsorship Intelligence Web](https://github.com/nazmilash/sponsorship-intelligence-web)
 An automated pipeline leveraging AI to aggregate market data and categorize hiring trends. Streamlines manual market research using custom scraping and NLP.
 
-### 📈 [Bank Marketing Predictive Modeling](https://github.com/yourusername/Bank-Marketing)
+### 📈 [Bank Marketing Predictive Modeling](https://github.com/nazmilash/Bank-Marketing)
 Optimization of sales efficiency through predictive classification. Analyzed 41k+ customer interactions to identify high-conversion leads with high precision.
 
-### 🚲 [London Bike Rentals EDA](https://github.com/yourusername/London-Bike-Rentals-EDA)
+### 🚲 [London Bike Rentals EDA](https://github.com/nazmilash/London-Bike-Rentals-EDA)
 Statistical analysis and visualization of urban mobility patterns. Focused on identifying causal factors behind rental spikes using R and Python.
 
 ---
